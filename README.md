@@ -142,6 +142,20 @@ Response:
 
 ---
 
+## Tests
+
+This project includes automated testing using **pytest** and the **Django REST Framework** to ensure proper functioning of the authentication and device management endpoints.
+
+### How to run the tests
+
+1. Make sure you have `pytest` installed and the project dependencies.
+2. Run the tests with the following command:
+
+```bash
+pytest
+```
+
+---
 
 ## Author
 
