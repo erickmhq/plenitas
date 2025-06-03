@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.sqlite3
+db.sqlite3
+
+# Local environment
+.env
+*.env
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Virtualenv
+.venv/
+
+# Pytest
+.cache/
+
+# migrations cache
+**/migrations/__pycache__/
