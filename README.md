@@ -22,7 +22,7 @@ A REST API built with Django and the Django Rest Framework that allows:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/tu_usuario/django-devices-api.git
+git clone https://github.com/erickmhq/plenitas.git
 cd plenitas
 ```
 
